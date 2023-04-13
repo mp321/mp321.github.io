@@ -8,7 +8,7 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Time Series Forecasting with ARIMA](/DataScience-Python/)
+[Time Series Forecasting with ARIMA](https://github.com/mp321/DataScience-Python/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
