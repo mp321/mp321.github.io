@@ -17,11 +17,11 @@
 
 ---
 
-### Category Name 2
+### Various projects
 
 - [Tableau Public Link](https://public.tableau.com/app/profile/michael.phipps3726/)
 - [Python 101 Examples (Opens Colab)](https://colab.research.google.com/drive/1rPWd0PaHP90jYu9QJdfCNDC4DHH8nKxV?usp=sharing)
-- [Webscraping Ocean Beach Current Surf Height (Opens Colab)](https://colab.research.google.com/drive/1vjMAm6BH5yzzw_BnUeaiimv8Lsj0osbX?usp=sharing)
+- [Webscraping Ocean Beach Current Surf Conditions with Python (Opens Colab)](https://colab.research.google.com/drive/1vjMAm6BH5yzzw_BnUeaiimv8Lsj0osbX?usp=sharing)
 - [Project 4 Title](http://example.com/)
 - [Project 5 Title](http://example.com/)
 
