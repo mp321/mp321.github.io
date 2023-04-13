@@ -9,7 +9,7 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>-->
 
 ---
-[Link to repo containing exaompels of many different Analysis Techniques using Python](https://github.com/mp321/DataScience-Python/](https://github.com/mp321/DataScience-Python/blob/7ef81c82859f6c08036a5e4e8bb24b24bdfd95b8/ARIMA_time-series-forecasting_PredictingRevenue.pdf)
+[Link to repo containing examples of Analysis Techniques using Python](https://github.com/mp321/DataScience-Python/](https://github.com/mp321/DataScience-Python/blob/7ef81c82859f6c08036a5e4e8bb24b24bdfd95b8/ARIMA_time-series-forecasting_PredictingRevenue.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
