@@ -8,7 +8,7 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/DataScience-Python/ARIMA_time-series-forecasting_PredictingRevenue.pdf)
+[Time Series Forecasting with ARIMA](mp321/DataScience-Python/ARIMA_time-series-forecasting_PredictingRevenue.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
