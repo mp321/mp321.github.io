@@ -19,7 +19,7 @@
 
 ### Category Name 2
 
-- Tableau public(Tableau link](https://public.tableau.com/app/profile/michael.phipps3726/)
+- [Tableau Public Link](https://public.tableau.com/app/profile/michael.phipps3726/)
 - [Project 2 Title](http://example.com/)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
