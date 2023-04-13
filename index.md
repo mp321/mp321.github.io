@@ -20,7 +20,7 @@
 ### Category Name 2
 
 - [Tableau Public Link](https://public.tableau.com/app/profile/michael.phipps3726/)
-- [Python Examples](https://colab.research.google.com/drive/1rPWd0PaHP90jYu9QJdfCNDC4DHH8nKxV?usp=sharing)
+- [Python 101 Examples (Opens Google Colab)](https://colab.research.google.com/drive/1rPWd0PaHP90jYu9QJdfCNDC4DHH8nKxV?usp=sharing)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
 - [Project 5 Title](http://example.com/)
