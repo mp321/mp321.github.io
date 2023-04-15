@@ -23,7 +23,7 @@
 - [Tableau Public Link](https://public.tableau.com/app/profile/michael.phipps3726/)
 - [Python 101 Examples (Opens Colab)](https://colab.research.google.com/drive/1rPWd0PaHP90jYu9QJdfCNDC4DHH8nKxV?usp=sharing)
 - [Webscraping Ocean Beach Current Surf Conditions with Python (Opens Colab)](https://colab.research.google.com/drive/1vjMAm6BH5yzzw_BnUeaiimv8Lsj0osbX?usp=sharing)
-
+- [Resume (Opens link to PDF)](https://drive.google.com/file/d/1FuiT-6NyaTT2rJVy0mpcswBiG2DCjgix/view?usp=sharing)
 ---
 
 <!--<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
